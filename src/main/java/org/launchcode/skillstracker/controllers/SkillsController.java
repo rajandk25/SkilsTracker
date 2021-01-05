@@ -33,24 +33,24 @@ public class SkillsController {
             "<input type= 'text' name= 'name'>" +
             "<h2> My favorite language: </h2>" +
             "<select name = 'firstLanguage'>" +
-            "<option value= 'java'> Java </option>" +
-            "<option value= 'javaScript'> JavaScript </option>" +
-            "<option value= 'python'> Python </option>" +
+            "<option value= 'Java'> Java </option>" +
+            "<option value= 'JavaScript'> JavaScript </option>" +
+            "<option value= 'Python'> Python </option>" +
             "</select>" +
 
             "<h2> My second favorite language: </h2>" +
             "<select name = 'secondLanguage'>" +
-            "<option value= 'java'> Java </option>" +
-            "<option value= 'javaScript'> JavaScript </option>" +
-            "<option value= 'python'> Python </option>" +
+            "<option value= 'Java'> Java </option>" +
+            "<option value= 'JavaScript'> JavaScript </option>" +
+            "<option value= 'Python'> Python </option>" +
             "</select>" +
 
 
             "<h2> My third favorite language: </h2>" +
             "<select name = 'thirdLanguage'>" +
-            "<option value= 'java'> Java </option>" +
-            "<option value= 'javaScript'> JavaScript </option>" +
-            "<option value= 'python'> Python </option>" +
+            "<option value= 'Java'> Java </option>" +
+            "<option value= 'JavaScript'> JavaScript </option>" +
+            "<option value= 'Python'> Python </option>" +
             "</select>" +
             "<br>" +
             "<input type= 'submit' value= 'Submit'>"+
